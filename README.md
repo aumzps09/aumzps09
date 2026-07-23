@@ -29,9 +29,6 @@ I build LLM applications, RAG systems, and production-ready ML pipelines — wit
 - Happy to talk about LLMs, RAG, data engineering — [open an issue](https://github.com/aumzps09/aumzps09/issues)
 - M.Sc. Data Science @ Chiang Mai University
 
-> [!TIP]
-> Fun fact: I debug code the same way I debug life — with enough coffee and patience.
-
 > [!NOTE]
 > Expecting **deterministic** output from a **generative** model is a contradiction baked into the words themselves.
 >
@@ -115,6 +112,9 @@ More on [Medium](https://medium.com/@aumsurapong).
 - Designing RAG pipelines, multimodal AI, and backend services
 - Automating workflows with LangChain / LangGraph
 - Just peace, coffee, and a happy today.
+
+> [!TIP]
+> Fun fact: I debug code the same way I debug life — with enough coffee and patience.
 
 ---
 
