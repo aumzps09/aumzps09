@@ -96,7 +96,7 @@
 
 | Project | Description | Stack | Repo | Status |
 |:--------|:------------|:------|:----:|:-----:|
-| *Coming soon* | | | | |
+| **🧠 RAG Chatbot** | Interactive knowledge base chatbot — upload docs, ask questions, get structured answers with sources | Streamlit · LangChain · ChromaDB · Gemini | [🔗](https://github.com/aumzps09/rag-chatbot) | ✅ |
 
 ---
 
