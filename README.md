@@ -1,6 +1,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=aumzps09&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Updated-Jul%202026-0ea5e9?style=flat-square" alt="Last updated" />
+  <img src="https://img.shields.io/badge/Updated-Sep%202026-0ea5e9?style=flat-square" alt="Last updated" />
 </div>
 
 <div align="center">
@@ -90,7 +90,8 @@ I build LLM applications, RAG systems, and production-ready ML pipelines — wit
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**RAG Chatbot**](https://github.com/aumzps09/rag-chatbot) | Interactive knowledge-base chatbot — upload docs, ask questions, get answers with sources. Thai & English. | Streamlit · LangChain · ChromaDB · Gemini |
+| [**Thai Data Analyst Agent**](https://github.com/aumzps09/thai-data-analyst-agent) | Thai Text2SQL analyst agent — ask in Thai, get SQL + charts + verified answers with sources. Router → SQL/doc/web agents with guardrails & evals. | LangGraph · FastAPI · PostgreSQL · Docker · Gemini |
+| [**RAG Chatbot**](https://github.com/aumzps09/rag-chatbot) | Production RAG chatbot — Streamlit UI + FastAPI backend, hybrid BM25 + reranking, Redis cache. Thai & English. | Streamlit · FastAPI · LangGraph · ChromaDB/pgvector · Redis · Docker |
 
 ---
 
