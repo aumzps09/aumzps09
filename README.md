@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=aumzps09&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/aumzps09/aumzps09.svg?label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/badge/Updated-Sep%202026-0ea5e9?style=flat-square" alt="Last updated" />
 </div>
 
@@ -92,6 +92,7 @@ I build LLM applications, RAG systems, and production-ready ML pipelines — wit
 |:--------|:------------|:------|
 | [**Thai Data Analyst Agent**](https://github.com/aumzps09/thai-data-analyst-agent) | Thai Text2SQL analyst agent — ask in Thai, get SQL + charts + verified answers with sources. Router → SQL/doc/web agents with guardrails & evals. | LangGraph · FastAPI · PostgreSQL · Docker · Gemini |
 | [**RAG Chatbot**](https://github.com/aumzps09/rag-chatbot) | Production RAG chatbot — Streamlit UI + FastAPI backend, hybrid BM25 + reranking, Redis cache. Thai & English. | Streamlit · FastAPI · LangGraph · ChromaDB/pgvector · Redis · Docker |
+| [**Thai LLM Playground**](https://github.com/aumzps09/thai-llm-playground) | Fine-tune Typhoon2-1B with LoRA for Thai recency updates, serve locally via Ollama. Base vs LoRA eval on a locked 100-question golden set (35 → 69). | PEFT/LoRA · Typhoon2 · Ollama · GGUF · FastAPI · Docker |
 
 ---
 
